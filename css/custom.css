@@ -2,13 +2,19 @@ h1 {
 	color: blue;
 }
 h4 {
-	color: red;
+	color: purple;
 }
 body {
 	background-color: black; 
 }
 
 .card {
- color: orange;
+ color: green;
  border-color: green;
+}
+.avb {
+	background-color: orange;
+}
+.mgm {
+	background-color: red;
 }
