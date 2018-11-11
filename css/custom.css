@@ -1,0 +1,14 @@
+h1 {
+	color: blue;
+}
+h4 {
+	color: red;
+}
+body {
+	background-color: black; 
+}
+
+.card {
+ color: orange;
+ border-color: green;
+}
